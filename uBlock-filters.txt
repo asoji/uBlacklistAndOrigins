@@ -1,0 +1,15 @@
+! https://github.com
+github.com##.copilotPreview__container
+github.com##.hide-md.hide-sm.AppHeader-CopilotChat
+github.com##li.prc-ActionList-ActionListItem-uq6I7:nth-of-type(5)
+
+! https://www.youtube.com
+youtube.com#$# ytd-rich-item-renderer {--ytd-rich-grid-items-per-row: 5 !important;margin-left: calc(var(--ytd-rich-grid-item-margin) / 2) !important;}
+youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+
+! Jun 13, 2025 https://www.google.com
+www.google.com##.iwb-detected:has-text(AI Mode)
+www.google.com##.iwb-detected:has-text(Shopping)
+
+! 14 Sept 2025 https://www.reddit.com
+www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
