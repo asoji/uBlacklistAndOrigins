@@ -4,4 +4,4 @@ just simply tracking my uBlacklist settings and my uBlock Origin filters because
 
 ## License
 
-[0BSD](LICENSE). Do whatever you want with em, I do not care.
+[0BSD / BSD0 / whatever the FUCK its called](LICENSE). Do whatever you want with em, I do not care.
